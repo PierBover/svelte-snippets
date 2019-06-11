@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{#each ${1:iterable} as ${2:item}${3:, index}}
+	$0
+{/each}
+]]></content>
+	<tabTrigger>each</tabTrigger>
+	<scope>text.html.svelte</scope>
+	<description>Svelte each</description>
+</snippet>

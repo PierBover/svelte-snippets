@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{#await ${1:promise}}
+	$0
+{/await}
+]]></content>
+	<tabTrigger>await</tabTrigger>
+	<scope>text.html.svelte</scope>
+	<description>Svelte await</description>
+</snippet>

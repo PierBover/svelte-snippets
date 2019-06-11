@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{:catch ${1:error}}
+	${2:console.log(${1:error});}
+]]></content>
+	<tabTrigger>catch</tabTrigger>
+	<scope>text.html.svelte</scope>
+	<description>Svelte catch</description>
+</snippet>

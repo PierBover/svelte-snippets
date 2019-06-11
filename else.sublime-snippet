@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{:else}
+]]></content>
+	<tabTrigger>else</tabTrigger>
+	<scope>text.html.svelte</scope>
+	<description>Svelte else</description>
+</snippet>
